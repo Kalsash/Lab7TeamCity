@@ -12,7 +12,7 @@ namespace Lab7TeamCity
         {
 
 
-            double a = 1/0;  // коэффициент при x^2
+            double a = 1;  // коэффициент при x^2
             double b = 2; // коэффициент при x
             double c = 0;  // свободный член
 
